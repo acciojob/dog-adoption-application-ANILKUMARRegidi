@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.Application
+{
+	margin-bottom:10px
+}
+.Form{
+	background:skyblue
+}
+#submit:hover{
+	background-color:#2980b9;
+}
